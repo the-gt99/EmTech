@@ -1,0 +1,6 @@
+[04-Feb-2018 17:11:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=37638 in /home/u148682720/public_html/EmTech/dialog/checkJoin.php on line 47
+[04-Feb-2018 17:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/u148682720/public_html/EmTech/dialog/checkJoin.php:47
+Stack trace:
+#0 /home/u148682720/public_html/EmTech/dialog/checkJoin.php(103): check_join(Object(mysqli))
+#1 {main}
+  thrown in /home/u148682720/public_html/EmTech/dialog/checkJoin.php on line 47

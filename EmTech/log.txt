@@ -1,0 +1,9 @@
+
+[04-Feb-2018 08:33:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_reply() in /home/u148682720/public_html/EmTech/main.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/u148682720/public_html/EmTech/main.php on line 59
+[04-Feb-2018 08:33:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_reply() in /home/u148682720/public_html/EmTech/main.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/u148682720/public_html/EmTech/main.php on line 59
